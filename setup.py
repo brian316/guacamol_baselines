@@ -117,7 +117,7 @@ setup(
     package_data={"guacamol_baselines": ["data/guacamol*.smiles", "smiles_lstm_hc/pretrained_model/model*.json", "smiles_lstm_hc/pretrained_model/model*.pt", "graph_mcts/*.p", "smiles_lstm_ppo/pretrained_model/model*.json", "smiles_lstm_ppo/pretrained_model/model*.pt"]},
     long_description=open("README.md").read(),
     # url="https://github.com/GT4SD/guacamol_baselines.git",
-    url="https://github.com/PhillipDowney/guacamol_baselines.git",
+    url="https://github.com/brian316/guacamol_baselines.git",
     long_description_content_type="text/markdown",
     classifiers=[
         "Programming Language :: Python :: 3",
