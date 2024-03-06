@@ -1,4 +1,5 @@
-guacamol==0.5.4
+# guacamol==0.5.4
+guacamol @ git+https://github.com/brian316/guacamol.git@master
 matplotlib==3.0.2
 torch>=1.0
 loguru==0.5.3
